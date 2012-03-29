@@ -1,0 +1,7 @@
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\NimbusTests\bin\Debug\NimbusTests.dll
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\NimbusTests\bin\Debug\NimbusTests.pdb
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\NimbusTests\bin\Debug\Nimbus.dll
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\NimbusTests\bin\Debug\Nimbus.pdb
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\NimbusTests\obj\Debug\ResolveAssemblyReference.cache
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\NimbusTests\obj\Debug\NimbusTests.dll
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\NimbusTests\obj\Debug\NimbusTests.pdb

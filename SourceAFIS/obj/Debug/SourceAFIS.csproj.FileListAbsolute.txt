@@ -1,0 +1,23 @@
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\sourceafis\SourceAFIS\bin\Debug\SourceAFIS.xml
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\sourceafis\SourceAFIS\bin\Debug\SourceAFIS.dll
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\sourceafis\SourceAFIS\bin\Debug\SourceAFIS.pdb
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\sourceafis\SourceAFIS\obj\Debug\ResolveAssemblyReference.cache
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\sourceafis\SourceAFIS\obj\Debug\SourceAFIS.dll
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\sourceafis\SourceAFIS\obj\Debug\SourceAFIS.pdb
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfis\SourceAFIS\bin\Debug\SourceAFIS.dll
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfis\SourceAFIS\bin\Debug\SourceAFIS.pdb
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfis\SourceAFIS\obj\Debug\ResolveAssemblyReference.cache
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfis\SourceAFIS\obj\Debug\SourceAFIS.dll
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfis\SourceAFIS\obj\Debug\SourceAFIS.pdb
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfisMongo\LeAfis\SourceAFIS\bin\Debug\SourceAFIS.xml
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfisMongo\LeAfis\SourceAFIS\bin\Debug\SourceAFIS.dll
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfisMongo\LeAfis\SourceAFIS\bin\Debug\SourceAFIS.pdb
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfisMongo\LeAfis\SourceAFIS\obj\Debug\ResolveAssemblyReference.cache
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfisMongo\LeAfis\SourceAFIS\obj\Debug\SourceAFIS.dll
+C:\dropbox\My Dropbox\Work\IFES\LEsotho\Work\Afis\LeAfisMongo\LeAfis\SourceAFIS\obj\Debug\SourceAFIS.pdb
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\SourceAFIS\bin\Debug\SourceAFIS.dll
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\SourceAFIS\bin\Debug\SourceAFIS.pdb
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\SourceAFIS\obj\Debug\ResolveAssemblyReference.cache
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\SourceAFIS\obj\Debug\SourceAFIS.dll
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\SourceAFIS\obj\Debug\SourceAFIS.pdb
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\SourceAFIS\bin\Debug\SourceAFIS.xml
