@@ -35,6 +35,13 @@
     <ServiceConfiguration Include="ServiceConfiguration.cscfg" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Nimbus\Nimbus.csproj">
+      <Name>Nimbus</Name>
+      <Project>{a3f93640-a7e6-44b2-b5a2-377f38584d5f}</Project>
+      <Private>True</Private>
+      <RoleType>Web</RoleType>
+      <RoleName>Nimbus</RoleName>
+    </ProjectReference>
     <ProjectReference Include="..\Nimbus\NimbusCruncher\NimbusCruncher.csproj">
       <Name>NimbusCruncher</Name>
       <Project>{954d5698-fc22-4002-b161-f83130bfa40d}</Project>
@@ -48,13 +55,6 @@
       <Private>True</Private>
       <RoleType>Web</RoleType>
       <RoleName>NimbusWebservice</RoleName>
-    </ProjectReference>
-    <ProjectReference Include="..\Nimbus\NimbusWeb\NimbusWeb.csproj">
-      <Name>NimbusWeb</Name>
-      <Project>{e4255a5d-a133-41b0-bc44-c8996e777d2d}</Project>
-      <Private>True</Private>
-      <RoleType>Web</RoleType>
-      <RoleName>NimbusWeb</RoleName>
     </ProjectReference>
   </ItemGroup>
   <!-- Import the target files for this project template -->

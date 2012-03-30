@@ -9,12 +9,6 @@
   **********************************************************************************************
 -->
 <ServiceConfiguration serviceName="NimbusSAAS" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="1" osVersion="*">
-  <Role name="NimbusWeb">
-    <Instances count="1" />
-    <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-    </ConfigurationSettings>
-  </Role>
   <Role name="NimbusWebservice">
     <Instances count="1" />
     <ConfigurationSettings>
@@ -22,6 +16,12 @@
     </ConfigurationSettings>
   </Role>
   <Role name="NimbusCruncher">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+    </ConfigurationSettings>
+  </Role>
+  <Role name="Nimbus">
     <Instances count="1" />
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />

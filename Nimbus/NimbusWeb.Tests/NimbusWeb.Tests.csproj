@@ -61,12 +61,6 @@
   <ItemGroup>
     <Content Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\NimbusWeb\NimbusWeb.csproj">
-      <Project>{E4255A5D-A133-41B0-BC44-C8996E777D2D}</Project>
-      <Name>NimbusWeb</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

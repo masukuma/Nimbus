@@ -6,3 +6,7 @@ C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\Nimbus\bin\Telerik.Web.Mvc.x
 C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\Nimbus\obj\Debug\ResolveAssemblyReference.cache
 C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\Nimbus\obj\Debug\Nimbus.dll
 C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\Nimbus\obj\Debug\Nimbus.pdb
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\Nimbus\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\Nimbus\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\Nimbus\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\dropbox\My Dropbox\Work\Noble Design Labs\Nimbus\Nimbus\bin\Microsoft.WindowsAzure.StorageClient.xml
